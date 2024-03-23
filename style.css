@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://th.bing.com/th/id/R.63be24348856919856f4184631a12f55?rik=qh3r9%2fTo2jgAow&riu=http%3a%2f%2fwallpapercave.com%2fwp%2f9quGkLG.jpg&ehk=0Xx4Qv2EDKAKYFWXlL4agJowBrvKUasWzeH%2fBkx2PUE%3d&risl=&pid=ImgRaw&r=0);
+  }
+
+  h1{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 40px;
+    font-style: italic;
+    font-family: cursive;
+    margin-bottom: 10px;
+  }
+  hr{
+    margin-bottom: 15px;
+    background-color: 4px solid blue;
+  }
+  
+  .card {
+    height:620px;
+    width: 50%;
+    line-height: 15px;
+    background-color: #fcf6fc;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(238, 231, 231, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: rgb(14, 1, 1);
+  }
+  
+  input[type="text"],
+  input[type="tel"],
+  input[type="email"]
+ {
+    width: 100%;
+    padding: 6px;
+    border-radius: 4px;
+    border: 1.5px solid #ccc;
+    color: black;
+    font-size: 16px;
+  }
+
+  button{
+    width: 20%;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid #1e93f3;
+    background-color: #093adb;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+  }
+
+ 
+
+  
+ 
+  
+ 
